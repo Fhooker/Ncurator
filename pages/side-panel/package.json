@@ -24,7 +24,7 @@
         "@huggingface/transformers": "^3.0.0",
         "@js-preview/docx": "^1.6.2",
         "@langchain/community": "^0.3.11",
-        "@langchain/core": "^0.3.16",
+        "@langchain/core": "^0.3.80",
         "@langchain/textsplitters": "^0.1.0",
         "@mlc-ai/web-llm": "^0.2.74",
         "@types/lunr": "^2.3.7",
