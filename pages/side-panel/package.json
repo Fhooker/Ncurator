@@ -37,7 +37,7 @@
         "jieba-wasm": "^2.2.0",
         "lunr": "^2.3.9",
         "lunr-languages": "^1.14.0",
-        "mammoth": "^1.8.0",
+        "mammoth": "^1.11.0",
         "mark.js": "^8.11.1",
         "mathjs": "^14.0.0",
         "openai": "^4.76.0",
