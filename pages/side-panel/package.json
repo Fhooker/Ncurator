@@ -23,7 +23,7 @@
         "@extension/storage": "workspace:*",
         "@huggingface/transformers": "^3.0.0",
         "@js-preview/docx": "^1.6.2",
-        "@langchain/community": "^0.3.11",
+        "@langchain/community": "^1.1.18",
         "@langchain/core": "^0.3.16",
         "@langchain/textsplitters": "^0.1.0",
         "@mlc-ai/web-llm": "^0.2.74",
